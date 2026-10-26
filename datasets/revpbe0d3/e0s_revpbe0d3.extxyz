@@ -1,0 +1,12 @@
+1
+Properties=species:S:1:pos:R:3 REF_energy=-13.664956045438675 config_type=IsolatedAtom pbc="F F F"
+H        0.00000000       0.00000000       0.00000000
+1
+Properties=species:S:1:pos:R:3 REF_energy=-147.72824834780556 config_type=IsolatedAtom pbc="F F F"
+C        0.00000000       0.00000000       0.00000000
+1
+Properties=species:S:1:pos:R:3 REF_energy=-432.12800329371896 config_type=IsolatedAtom pbc="F F F"
+O        0.00000000       0.00000000       0.00000000
+1
+Properties=species:S:1:pos:R:3 REF_energy=-997.3090206656105 config_type=IsolatedAtom pbc="F F F"
+Ca        0.00000000       0.00000000       0.00000000
